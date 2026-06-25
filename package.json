@@ -1,0 +1,37 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Вычислитель отличий",
+  "main": "src/index.js",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
+    "coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "js-yaml": "^5.1.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@jest/globals": "^29.7.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.5.0",
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzagoruiko/qa-auto-engineer-javascript-project-87.git"
+  },
+  "author": "Ваше Имя",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzagoruiko/qa-auto-engineer-javascript-project-87/issues"
+  },
+  "homepage": "https://github.com/dzagoruiko/qa-auto-engineer-javascript-project-87#readme"
+}
