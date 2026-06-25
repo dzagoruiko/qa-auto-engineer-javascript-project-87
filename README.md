@@ -6,3 +6,9 @@ https://asciinema.org/a/WbUmBq0m3smoafmR
 
 ## Сравнение плоских файлов (yaml)
 https://asciinema.org/a/8VybwjCg6BDfPO3E
+
+## Плоский формат
+https://asciinema.org/a/ySKKAuEMXYLvbabH
+
+## Вывод в json
+https://asciinema.org/a/yKWaM8kRQgGPTPpO
